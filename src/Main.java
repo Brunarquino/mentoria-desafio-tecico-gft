@@ -1,3 +1,4 @@
+import desafios.Craps;
 import desafios.Desafio3.Consultor;
 import desafios.Desafio3.Vendedor;
 import desafios.Macaco;
@@ -35,17 +36,20 @@ public class Main {
         /*
         Exercicio 3
         */
-
+        /*
         Vendedor vendedor = new Vendedor("Bruna Vendedora", 234324544535l, 10d, 5);
         System.out.println(vendedor.CalcularSalario());
 
         Consultor consultor = new Consultor("Bruna Consultora", 234324545543l, 100.5d, 10);
         System.out.println(consultor.CalcularSalario());
 
+         */
 
         /*
         Exercicio 4
         */
+
+        /*Craps.Craps();*/
 
 
 
